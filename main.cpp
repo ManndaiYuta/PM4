@@ -2,7 +2,7 @@
 int main() 
 {
 	printf("Hello Wald\n");
-	ptintf();
+	printf("Goodbye");
 	return 0;
 
 }
